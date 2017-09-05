@@ -14,6 +14,7 @@
 #    bash> vector2json cb_2014_06_tract_500k.shp STATEFP 06 California
 #
 # dependencies
+#   https://www.npmjs.com/package/shapefile
 #   https://github.com/mbostock/ndjson-cli
 #   https://www.npmjs.com/package/ndjson-cli
 #   https://www.npmjs.com/package/geojson-precision
